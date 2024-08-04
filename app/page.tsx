@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <>
     <Guess>
-    <div className="bg-[url('https://i.pinimg.com/originals/34/db/9d/34db9d43064d10907faa5136315dd49e.jpg')] opacity-50 min-h-screen min-w-full bg-current bg-cover bg-center flex flex-col items-center  overflow-hidden">
+    <div className="bg-[url('https://i.pinimg.com/originals/34/db/9d/34db9d43064d10907faa5136315dd49e.jpg')] min-h-screen min-w-full bg-current bg-cover bg-center flex flex-col items-center  overflow-hidden">
     {/* Dekstop */}
     <div className="hidden 2xl:block">
       <div className="flex flex-row">
